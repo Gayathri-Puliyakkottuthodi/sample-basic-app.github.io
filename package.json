@@ -1,6 +1,7 @@
 {
   "name": "sample-basic-app",
   "version": "0.1.0",
+  "app": "http://Gayathri-Puliyakkottuthodi.github.io/sample-basic-app.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
